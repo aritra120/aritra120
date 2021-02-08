@@ -9,11 +9,11 @@
 
 ### Few things about me 
 
-- 🔭 I’m currently working on <b>Campus24</b>
-- 🌱 I’m currently learning <b>MERN</b>
-- 👯 I’m looking to collaborate on <b>Web Development (React.js-Firebase) & DataStructures</b>
-- 🤔 I’m looking for help with <b>Algorithms</b>
-- 💬 Ask me about <b>Anything</b>
+- 🔭 I’m currently working on : <b>Campus24</b>
+- 🌱 I’m currently learning : <b>MERN</b>
+- 👯 I’m looking to collaborate on : <b>Web Development (React.js-Firebase) & DataStructures</b>
+- 🤔 I’m looking for help with : <b>Algorithms</b>
+- 💬 Ask me about : <b>Anything</b>
 - 😄 Pronouns: <b>He/him</b>
 - ⚡ Fun fact: <b>Still Stuggling</b>
 <hr>
